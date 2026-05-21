@@ -1,0 +1,4 @@
+sleep_disorder,n,mean_sleep_h,mean_quality,mean_stress,mean_hr
+Insomnia,77,6.6,6.5,5.9,70.5
+None,219,7.4,7.6,5.1,69
+Sleep Apnea,78,7,7.2,5.7,73.1
