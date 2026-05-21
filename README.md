@@ -20,7 +20,7 @@ Kaggle. https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-da
 
 ## How to Run
 1. Clone this repo
-2. Open sleep-health-analysis.Rproj in RStudio
+2. Open in RStudio
 3. Run scripts/sleep-health-analysis-script.R
 
 ## Key Visualisations
